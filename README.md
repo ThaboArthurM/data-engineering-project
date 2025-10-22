@@ -19,4 +19,4 @@ AWS Athena: Athena is an interactive query service for S3 in which there is no n
 Dataset Used
 This Kaggle dataset contains statistics (CSV files)  
 
-<img src="./Screenshot 2025-10-21 211642.png" />
+<img src="./architecture.jpeg" />

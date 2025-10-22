@@ -18,3 +18,5 @@ AWS Lambda: Lambda is a computing service that allows programmers to run code wi
 AWS Athena: Athena is an interactive query service for S3 in which there is no need to load data it stays in S3.
 Dataset Used
 This Kaggle dataset contains statistics (CSV files)  
+
+<img src="./Screenshot 2025-10-21 211642.png" />
